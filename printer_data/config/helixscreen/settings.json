@@ -48,15 +48,6 @@
     "entries": [
       {
         "phases": {
-          "2": 11,
-          "7": 45
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783877307,
-        "total": 343
-      },
-      {
-        "phases": {
           "2": 14,
           "7": 52
         },
@@ -135,6 +126,14 @@
         "temp_bucket": 2,
         "timestamp": 1784494259,
         "total": 273
+      },
+      {
+        "phases": {
+          "7": 56
+        },
+        "temp_bucket": 2,
+        "timestamp": 1784501342,
+        "total": 305
       }
     ]
   },
@@ -166,21 +165,7 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 105,
-          "brand": "Ambrosia",
-          "color_rgb": 0,
-          "material": "ASA-GF",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "remaining_weight_g": 636.975341796875,
-          "spool_name": "Ambrosia ASA-GF - Black",
-          "spoolman_id": 52,
-          "total_weight_g": 1000.0
-        }
-      },
+      "filament": {},
       "filament_sensors": {
         "master_enabled": true,
         "sensors": [
@@ -712,7 +697,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.0184414386749268
+        "heat_rate": 4.447168350219727
       }
     }
   },
