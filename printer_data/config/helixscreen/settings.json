@@ -48,15 +48,6 @@
     "entries": [
       {
         "phases": {
-          "2": 14,
-          "7": 82
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783970534,
-        "total": 308
-      },
-      {
-        "phases": {
           "2": 11,
           "7": 87
         },
@@ -134,6 +125,15 @@
         "temp_bucket": 2,
         "timestamp": 1784507043,
         "total": 312
+      },
+      {
+        "phases": {
+          "2": 13,
+          "7": 77
+        },
+        "temp_bucket": 2,
+        "timestamp": 1784572997,
+        "total": 330
       }
     ]
   },
@@ -165,7 +165,21 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {},
+      "filament": {
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 105,
+          "brand": "Ambrosia",
+          "color_rgb": 524543,
+          "material": "ASA",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "remaining_weight_g": 20.75713348388672,
+          "spool_name": "Ambrosia ASA - Galactic Super Blue",
+          "spoolman_id": 40,
+          "total_weight_g": 1000.0
+        }
+      },
       "filament_sensors": {
         "master_enabled": true,
         "sensors": [
@@ -697,7 +711,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 5.304290771484375
+        "heat_rate": 6.284684181213379
       }
     }
   },
