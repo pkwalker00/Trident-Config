@@ -174,7 +174,7 @@
           "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 1000.0,
+          "remaining_weight_g": 999.8533935546875,
           "spool_name": "Ambrosia ASA - Galactic Super Blue",
           "spoolman_id": 53,
           "total_weight_g": 1000.0
