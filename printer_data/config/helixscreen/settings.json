@@ -42,33 +42,6 @@
     "entries": [
       {
         "phases": {
-          "2": 53,
-          "7": 209
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786399875,
-        "total": 368
-      },
-      {
-        "phases": {
-          "2": 13,
-          "7": 211
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786461844,
-        "total": 324
-      },
-      {
-        "phases": {
-          "2": 14,
-          "7": 126
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786478927,
-        "total": 229
-      },
-      {
-        "phases": {
           "2": 11,
           "7": 178
         },
@@ -129,6 +102,33 @@
         "temp_bucket": 2,
         "timestamp": 1786636815,
         "total": 268
+      },
+      {
+        "phases": {
+          "2": 11,
+          "7": 192
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786639750,
+        "total": 310
+      },
+      {
+        "phases": {
+          "2": 13,
+          "7": 164
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786647410,
+        "total": 276
+      },
+      {
+        "phases": {
+          "2": 14,
+          "7": 185
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786653584,
+        "total": 315
       }
     ]
   },
@@ -165,13 +165,13 @@
           "assigned": true,
           "bed_temp": 95,
           "brand": "Torofil",
-          "color_rgb": 16777215,
+          "color_rgb": 0,
           "material": "PC-PBT-GF",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 841.9070434570313,
-          "spool_name": "Torofil PC-PBT-GF - PC-PBT-GF - Pure White",
-          "spoolman_id": 55,
+          "remaining_weight_g": 421.9287414550781,
+          "spool_name": "Torofil PC-PBT-GF - PC-PBT-GF - Ultra Black",
+          "spoolman_id": 54,
           "total_weight_g": 1000.0
         }
       },
@@ -702,7 +702,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.160773992538452
+        "heat_rate": 3.2524867057800293
       }
     }
   },
