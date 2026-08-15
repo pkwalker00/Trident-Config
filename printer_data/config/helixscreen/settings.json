@@ -42,15 +42,6 @@
     "entries": [
       {
         "phases": {
-          "2": 12,
-          "7": 51
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786577508,
-        "total": 281
-      },
-      {
-        "phases": {
           "2": 13,
           "7": 148
         },
@@ -129,6 +120,15 @@
         "temp_bucket": 2,
         "timestamp": 1786724674,
         "total": 303
+      },
+      {
+        "phases": {
+          "2": 14,
+          "7": 61
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786726188,
+        "total": 285
       }
     ]
   },
@@ -286,7 +286,7 @@
             "tmc2240 stepper_y",
             "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-08-14T13:42:40Z"
+          "timestamp": "2026-08-15T00:23:03Z"
         },
         "optional": []
       },
