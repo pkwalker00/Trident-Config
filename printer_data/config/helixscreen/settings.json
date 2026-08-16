@@ -42,15 +42,6 @@
     "entries": [
       {
         "phases": {
-          "2": 14,
-          "7": 185
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786653584,
-        "total": 315
-      },
-      {
-        "phases": {
           "2": 11,
           "7": 192
         },
@@ -128,6 +119,15 @@
         "temp_bucket": 2,
         "timestamp": 1786846414,
         "total": 292
+      },
+      {
+        "phases": {
+          "2": 13,
+          "7": 34
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786891183,
+        "total": 239
       }
     ]
   },
@@ -165,14 +165,14 @@
           "bed_temp": 95,
           "brand": "Torofil",
           "catalog_id": "",
-          "color_rgb": 0,
+          "color_rgb": 16777215,
           "material": "PC-PBT-GF",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 225.5713653564453,
-          "spool_name": "PC-PBT-GF - Ultra Black",
-          "spoolman_id": 54,
+          "remaining_weight_g": 610.4216918945313,
+          "spool_name": "PC-PBT-GF - Pure White",
+          "spoolman_id": 55,
           "total_weight_g": 1000.0
         }
       },
@@ -301,7 +301,7 @@
             "tmc2240 stepper_y",
             "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-08-16T14:14:40Z"
+          "timestamp": "2026-08-16T14:38:25Z"
         },
         "optional": []
       },
@@ -703,7 +703,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 3.2492377758026123
+        "heat_rate": 5.663153171539307
       }
     }
   },
