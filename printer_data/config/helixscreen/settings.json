@@ -43,15 +43,6 @@
       {
         "phases": {
           "2": 13,
-          "7": 158
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786720691,
-        "total": 269
-      },
-      {
-        "phases": {
-          "2": 13,
           "7": 174
         },
         "temp_bucket": 2,
@@ -128,6 +119,15 @@
         "temp_bucket": 2,
         "timestamp": 1786911260,
         "total": 258
+      },
+      {
+        "phases": {
+          "2": 20,
+          "7": 173
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786929971,
+        "total": 296
       }
     ]
   },
@@ -159,7 +159,23 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {},
+      "filament": {
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 95,
+          "brand": "Torofil",
+          "catalog_id": "",
+          "color_rgb": 16777215,
+          "material": "PC-PBT-GF",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "product_name": "",
+          "remaining_weight_g": 479.9610900878906,
+          "spool_name": "PC-PBT-GF - Pure White",
+          "spoolman_id": 55,
+          "total_weight_g": 1000.0
+        }
+      },
       "filament_sensors": {
         "master_enabled": true,
         "sensors": [
@@ -687,7 +703,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 6.4342145919799805
+        "heat_rate": 5.652262210845947
       }
     }
   },
