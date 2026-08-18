@@ -170,7 +170,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 730.6222534179688,
+          "remaining_weight_g": 730.4716186523438,
           "spool_name": "Natural",
           "spoolman_id": 31,
           "total_weight_g": 1000.0
@@ -301,7 +301,7 @@
             "tmc2240 stepper_y",
             "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-08-18T17:32:22Z"
+          "timestamp": "2026-08-18T19:41:41Z"
         },
         "optional": []
       },
