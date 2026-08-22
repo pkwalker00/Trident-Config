@@ -43,15 +43,6 @@
       {
         "phases": {
           "2": 13,
-          "7": 148
-        },
-        "temp_bucket": 2,
-        "timestamp": 1786976450,
-        "total": 263
-      },
-      {
-        "phases": {
-          "2": 13,
           "7": 210
         },
         "temp_bucket": 2,
@@ -129,6 +120,15 @@
         "temp_bucket": 2,
         "timestamp": 1787340580,
         "total": 256
+      },
+      {
+        "phases": {
+          "2": 13,
+          "7": 160
+        },
+        "temp_bucket": 2,
+        "timestamp": 1787363009,
+        "total": 269
       }
     ]
   },
@@ -286,7 +286,7 @@
             "tmc2240 stepper_y",
             "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-08-22T01:37:35Z"
+          "timestamp": "2026-08-22T03:03:41Z"
         },
         "optional": []
       },
@@ -688,7 +688,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 2.2718636989593506
+        "heat_rate": 2.1906678676605225
       }
     }
   },
