@@ -162,23 +162,7 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
-      "filament": {
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 95,
-          "brand": "Torofil",
-          "catalog_id": "",
-          "color_rgb": 0,
-          "material": "PC-PBT-GF",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "product_name": "",
-          "remaining_weight_g": 225.27369689941406,
-          "spool_name": "PC-PBT-GF - Ultra Black",
-          "spoolman_id": 54,
-          "total_weight_g": 1000.0
-        }
-      },
+      "filament": {},
       "filament_sensors": {
         "master_enabled": true,
         "sensors": [
@@ -304,7 +288,7 @@
             "tmc2240 stepper_y",
             "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-08-29T01:20:32Z"
+          "timestamp": "2026-08-29T18:03:53Z"
         },
         "optional": []
       },
