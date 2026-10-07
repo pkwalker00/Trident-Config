@@ -715,7 +715,7 @@
   "update": {
     "dismissed_version": "0.99.117"
   },
-  "wifi_enabled": true,
-  "wifi_expected": true,
+  "wifi_enabled": false,
+  "wifi_expected": false,
   "wizard_completed": true
 }
