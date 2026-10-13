@@ -292,9 +292,9 @@
             "tmc2240 stepper_x",
             "tmc2240 stepper_x1",
             "tmc2240 stepper_y",
-            "tmc5160 stepper_y1"
+            "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-10-13T19:55:58Z"
+          "timestamp": "2026-10-13T19:59:18Z"
         },
         "optional": []
       },
