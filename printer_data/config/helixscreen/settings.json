@@ -713,7 +713,7 @@
   },
   "ui_sounds_enabled": false,
   "update": {
-    "dismissed_version": "0.99.117"
+    "dismissed_version": "1.0.5"
   },
   "wifi_enabled": true,
   "wifi_expected": true,
