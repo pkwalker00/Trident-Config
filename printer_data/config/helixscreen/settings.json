@@ -251,7 +251,8 @@
             "fan_generic _emu_fan_2",
             "fan_generic _emu_fan_3",
             "heater_fan Skirt_fan",
-            "controller_fan driver_fan"
+            "controller_fan driver_fan",
+            "fan_generic ChFan"
           ],
           "filament_sensors": [
             "filament_switch_sensor mmu_pre_gate_0",
@@ -294,7 +295,7 @@
             "tmc2240 stepper_y",
             "tmc2240 stepper_y1"
           ],
-          "timestamp": "2026-10-19T20:26:41Z"
+          "timestamp": "2026-10-19T20:33:23Z"
         },
         "optional": []
       },
